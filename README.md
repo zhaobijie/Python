@@ -51,3 +51,4 @@ In the scripts the comments etc are lined up correctly when they are viewed in [
 - `CountMillionCharacter.py` - This Script will,counting character script, count how much character present *any text based file.
 
 and today is 2017-04-25,I'm trying to use github ,and here is my changing in this file.
+and now，I'm trying to change the readme.me on website.
